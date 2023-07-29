@@ -1,51 +1,51 @@
 [1] "DISAMB---NPS"
  contrast                                                          estimate    SE  df z.ratio
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)     2.037 0.273 Inf   7.459
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)    7.351 0.273 Inf  26.910
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)     1.212 0.273 Inf   4.437
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)     5.313 0.273 Inf  19.451
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)     -0.825 0.273 Inf  -3.022
- (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)    -6.139 0.273 Inf -22.472
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)     2.382 0.128 Inf  18.663
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)    6.869 0.128 Inf  53.826
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)     0.837 0.128 Inf   6.557
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)     4.488 0.128 Inf  35.163
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)     -1.545 0.128 Inf -12.106
+ (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)    -6.033 0.128 Inf -47.269
  p.value
   <.0001
   <.0001
-  0.0001
   <.0001
-  0.0134
+  <.0001
+  <.0001
   <.0001
 
 Degrees-of-freedom method: asymptotic 
 P value adjustment: tukey method for comparing a family of 4 estimates 
 [1] "DISAMB---NPZ"
  contrast                                                          estimate    SE  df z.ratio
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)      2.37 0.292 Inf   8.125
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)     7.60 0.292 Inf  26.006
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)      1.11 0.292 Inf   3.804
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)      5.22 0.292 Inf  17.881
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)      -1.26 0.292 Inf  -4.321
- (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)     -6.49 0.292 Inf -22.203
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)     2.250 0.137 Inf  16.412
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)    6.491 0.137 Inf  47.342
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)     0.721 0.137 Inf   5.255
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)     4.240 0.137 Inf  30.930
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)     -1.530 0.137 Inf -11.156
+ (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)    -5.770 0.137 Inf -42.086
  p.value
   <.0001
   <.0001
-  0.0008
   <.0001
-  0.0001
+  <.0001
+  <.0001
   <.0001
 
 Degrees-of-freedom method: asymptotic 
 P value adjustment: tukey method for comparing a family of 4 estimates 
 [1] "DISAMB---MVRR"
  contrast                                                          estimate    SE  df z.ratio
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)     3.664 0.322 Inf  11.390
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)   11.325 0.322 Inf  35.201
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)     0.547 0.322 Inf   1.701
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)     7.661 0.322 Inf  23.812
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)     -3.117 0.322 Inf  -9.688
- (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)   -10.778 0.322 Inf -33.500
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)     3.743 0.151 Inf  24.814
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)   10.932 0.151 Inf  72.480
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)     0.829 0.151 Inf   5.499
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)     7.189 0.151 Inf  47.666
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)     -2.913 0.151 Inf -19.315
+ (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)   -10.102 0.151 Inf -66.981
  p.value
   <.0001
   <.0001
-  0.3229
+  <.0001
   <.0001
   <.0001
   <.0001
@@ -53,33 +53,33 @@ P value adjustment: tukey method for comparing a family of 4 estimates
 Degrees-of-freedom method: asymptotic 
 P value adjustment: tukey method for comparing a family of 4 estimates 
 [1] "SP1---NPS"
- contrast                                                          estimate   SE  df z.ratio
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)     1.087 0.29 Inf   3.751
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)    7.823 0.29 Inf  26.999
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)     1.820 0.29 Inf   6.281
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)     6.737 0.29 Inf  23.248
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)      0.733 0.29 Inf   2.530
- (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)    -6.003 0.29 Inf -20.718
+ contrast                                                          estimate    SE  df z.ratio
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)    1.1725 0.141 Inf   8.325
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)   6.3807 0.141 Inf  45.301
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)    1.1163 0.141 Inf   7.925
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)    5.2082 0.141 Inf  36.976
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)    -0.0562 0.141 Inf  -0.399
+ (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)   -5.2644 0.141 Inf -37.376
  p.value
-  0.0010
   <.0001
   <.0001
   <.0001
-  0.0554
+  <.0001
+  0.9785
   <.0001
 
 Degrees-of-freedom method: asymptotic 
 P value adjustment: tukey method for comparing a family of 4 estimates 
 [1] "SP1---NPZ"
  contrast                                                          estimate    SE  df z.ratio
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)     0.886 0.322 Inf   2.754
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)    9.759 0.322 Inf  30.330
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)     3.194 0.322 Inf   9.928
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)     8.873 0.322 Inf  27.576
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)      2.308 0.322 Inf   7.174
- (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)    -6.565 0.322 Inf -20.402
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)     0.839 0.153 Inf   5.474
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)    7.233 0.153 Inf  47.169
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)     2.146 0.153 Inf  13.994
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)     6.394 0.153 Inf  41.695
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)      1.307 0.153 Inf   8.520
+ (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)    -5.087 0.153 Inf -33.175
  p.value
-  0.0301
+  <.0001
   <.0001
   <.0001
   <.0001
@@ -90,48 +90,12 @@ Degrees-of-freedom method: asymptotic
 P value adjustment: tukey method for comparing a family of 4 estimates 
 [1] "SP1---MVRR"
  contrast                                                          estimate    SE  df z.ratio
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)     1.076 0.316 Inf   3.402
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)   10.477 0.316 Inf  33.119
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)     1.982 0.316 Inf   6.264
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)     9.400 0.316 Inf  29.716
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)      0.905 0.316 Inf   2.862
- (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)    -8.495 0.316 Inf -26.855
- p.value
-  0.0037
-  <.0001
-  <.0001
-  <.0001
-  0.0219
-  <.0001
-
-Degrees-of-freedom method: asymptotic 
-P value adjustment: tukey method for comparing a family of 4 estimates 
-[1] "SP2---NPS"
- contrast                                                          estimate    SE  df z.ratio
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)    -1.834 0.273 Inf  -6.724
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)    2.615 0.273 Inf   9.586
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)     1.953 0.273 Inf   7.160
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)     4.450 0.273 Inf  16.310
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)      3.788 0.273 Inf  13.884
- (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)    -0.662 0.273 Inf  -2.426
- p.value
-  <.0001
-  <.0001
-  <.0001
-  <.0001
-  <.0001
-  0.0723
-
-Degrees-of-freedom method: asymptotic 
-P value adjustment: tukey method for comparing a family of 4 estimates 
-[1] "SP2---NPS"
- contrast                                                          estimate  SE  df z.ratio
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)     -1.81 0.3 Inf  -6.046
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)     1.50 0.3 Inf   5.014
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)      3.30 0.3 Inf  10.999
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)      3.32 0.3 Inf  11.060
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)       5.11 0.3 Inf  17.044
- (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)      1.79 0.3 Inf   5.984
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)     1.093 0.151 Inf   7.241
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)    9.250 0.151 Inf  61.282
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)     1.804 0.151 Inf  11.954
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)     8.157 0.151 Inf  54.041
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)      0.711 0.151 Inf   4.712
+ (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)    -7.446 0.151 Inf -49.329
  p.value
   <.0001
   <.0001
@@ -144,19 +108,55 @@ Degrees-of-freedom method: asymptotic
 P value adjustment: tukey method for comparing a family of 4 estimates 
 [1] "SP2---NPS"
  contrast                                                          estimate    SE  df z.ratio
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)    -2.312 0.296 Inf  -7.825
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)    2.631 0.296 Inf   8.902
- (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)     2.195 0.296 Inf   7.426
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)     4.943 0.296 Inf  16.727
- (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)      4.507 0.296 Inf  15.250
- (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)    -0.436 0.296 Inf  -1.477
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)   -2.3931 0.123 Inf -19.393
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)   1.3481 0.123 Inf  10.925
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)    1.2864 0.123 Inf  10.425
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)    3.7412 0.123 Inf  30.318
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)     3.6796 0.123 Inf  29.818
+ (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)   -0.0617 0.123 Inf  -0.500
  p.value
   <.0001
   <.0001
   <.0001
   <.0001
   <.0001
-  0.4517
+  0.9591
+
+Degrees-of-freedom method: asymptotic 
+P value adjustment: tukey method for comparing a family of 4 estimates 
+[1] "SP2---NPZ"
+ contrast                                                          estimate    SE  df z.ratio
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)    -2.537 0.134 Inf -18.929
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)   -0.332 0.134 Inf  -2.477
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)     2.290 0.134 Inf  17.090
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)     2.205 0.134 Inf  16.452
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)      4.827 0.134 Inf  36.019
+ (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)     2.622 0.134 Inf  19.567
+ p.value
+  <.0001
+  0.0635
+  <.0001
+  <.0001
+  <.0001
+  <.0001
+
+Degrees-of-freedom method: asymptotic 
+P value adjustment: tukey method for comparing a family of 4 estimates 
+[1] "SP2---MVRR"
+ contrast                                                          estimate    SE  df z.ratio
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_lex)    -2.596 0.132 Inf -19.622
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_none)    2.491 0.132 Inf  18.833
+ (Amb - Unamb predicted_rt_both) - (Amb - Unamb predicted_rt_syn)     1.979 0.132 Inf  14.964
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_none)     5.087 0.132 Inf  38.455
+ (Amb - Unamb predicted_rt_lex) - (Amb - Unamb predicted_rt_syn)      4.575 0.132 Inf  34.586
+ (Amb - Unamb predicted_rt_none) - (Amb - Unamb predicted_rt_syn)    -0.512 0.132 Inf  -3.869
+ p.value
+  <.0001
+  <.0001
+  <.0001
+  <.0001
+  <.0001
+  0.0006
 
 Degrees-of-freedom method: asymptotic 
 P value adjustment: tukey method for comparing a family of 4 estimates 

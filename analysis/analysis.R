@@ -344,7 +344,7 @@ rm(merged)
 
 with_lags_pred <- subset(with_lags, is.na(model))
 summary(with_lags_pred)
-for (model_num in c("m0")) {
+for (model_num in c("m0", "m1", "m2", "m3")) {
   with_lags_m <- subset(with_lags, model == model_num)
   filler_model_none <- readRDS(paste0("models/filler_model_none", model_num,".rds"))
   with_lags_m$predicted_rt_none <- predict(filler_model_none, newdata=with_lags_m, allow.new.levels=TRUE)
@@ -378,6 +378,7 @@ with_lags <- with_lags_pred %>% subset(!is.na(predicted_rt_lex)) %>%
 saveRDS(with_lags, "RDS/classic_gp_data.rds")
 
 #----------
+sink("pairwise_comps.log")
 with_lags <- readRDS("RDS/classic_gp_data.rds")
 with_lags <- with_lags %>% filter(ROI == 0) 
 with_lags <- subset(with_lags, rt_type != "RT")
@@ -476,6 +477,7 @@ mvrr.emm <- emmeans(eff_model_mvrr, ~ AMBIG | rt_type)
 mvrr.con <- contrast(mvrr.emm, interaction="pairwise")
 pairs(mvrr.con, by=NULL)
 
+sink()
 #----------
 
 with_lags <- readRDS("RDS/classic_gp_data.rds")
