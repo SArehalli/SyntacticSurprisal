@@ -6,11 +6,11 @@ Note that this repository corrects two errors in the analysis presented in the C
 ## Instructions to replicate
 
 ### Prepare additional files
-Download pretrained models ([To be released]) to a folder named "models"
+Download [pretrained models]((https://drive.google.com/drive/folders/1nWodm9joib-D9aSQP4hMpVnTFMR5bMKT?usp=sharing) to a folder named "models"
 
-Download SAP Benchmark (https://github.com/caplabnyu/sapbenchmark/) data for the ClassicGP and Filler subsets, as well as the freqs_coca.csv (word frequencies taken from the COCA) to the analysis folder. 
+Download [SAP Benchmark](https://github.com/caplabnyu/sapbenchmark/) data for the ClassicGP and Filler subsets, as well as the freqs_coca.csv (word frequencies taken from the COCA) to the analysis folder. 
 
-Optionally download the SAP benchmark repo to sapbenchmark and the CCGMultitask codebase to CCGMultitask. However, this is unnecessary; the necessary files to run this analysis is provided here.
+Optionally download the SAP benchmark repo to sapbenchmark and the [CCGMultitask](https://github.com/SArehalli/CCGMultitask) codebase to CCGMultitask. However, these steps are not necessary; the specific files needed to run this analysis is provided here.
 
 ### Generate surprisals
 
