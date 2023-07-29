@@ -1,0 +1,5 @@
+models/*
+analysis/models/*
+scripts/*.sbash
+*.pyc
+analysis/*.csv
