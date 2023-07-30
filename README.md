@@ -1,6 +1,6 @@
 # Code for Arehalli, Dillon &amp; Linzen (2022) "Syntactic Surprisal From Neural Models Predicts, But Underestimates, Human Processing Difficulty From Syntactic Ambiguities".
 
-Note that this repository corrects two errors in the analysis presented in the CoNLL paper which mistakenly excluded some filler words and represented some in-vocabulary words are out-of-vocabulary tokens. These errors are corrected in the latest arXiv version of the paper.
+Note that this repository corrects two errors in the analysis presented in the CoNLL paper which mistakenly excluded some filler words and represented some in-vocabulary words are out-of-vocabulary tokens. These errors are corrected in the forthcoming new arXiv version of the paper.
 
 
 ## Instructions to replicate
